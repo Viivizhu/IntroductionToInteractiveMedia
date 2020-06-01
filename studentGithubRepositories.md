@@ -19,4 +19,4 @@ recognize as you.
 - [Yashaswi](https://github.com/ym1929/Introduction-to-Interactive-Media)
 - [Kris](https://github.com/Quarmuz/IntroToIM.git)
 - [Zheki](https://github.com/Zheki/Intro-to-IM-Summer-2020)
-
+- [Vivi] (https://github.com/Viivizhu/IntroductionToIM/tree/master/june%201)
