@@ -21,4 +21,4 @@ recognize as you.
 - [Zheki](https://github.com/Zheki/Intro-to-IM-Summer-2020)
 - [Sadeq](https://github.com/sadeqalkh/IntroductionToInteractiveMedia)
 - [Rashid](https://github.com/raq217/introtoIM)
-- [Vivi](https://github.com/Viivizhu/IntroductionToIM/)
+- [Vivi](https://github.com/Viivizhu/IntroductionToIM/tree/master/june2)
